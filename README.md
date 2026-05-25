@@ -6,8 +6,9 @@
 ---
 
 ## Integrantes
-- Nome 1
-- Nome 2
+- Aline Borges
+- Aline Laura da cruz
+- Leticia Caroline Erat
 
 ---
 
