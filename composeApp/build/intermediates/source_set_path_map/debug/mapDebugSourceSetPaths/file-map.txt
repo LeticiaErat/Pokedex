@@ -1,0 +1,62 @@
+com.pokedex.composeApp-annotation-experimental-1.4.1-0 C:\Users\letic\.gradle\caches\8.11.1\transforms\01d5fa322e2160787c63a3a8c8ead92f\transformed\annotation-experimental-1.4.1\res
+com.pokedex.composeApp-navigation-common-2.8.0-rc01-1 C:\Users\letic\.gradle\caches\8.11.1\transforms\09b610aee8d5606e3ab74ce4937a0e1e\transformed\navigation-common-2.8.0-rc01\res
+com.pokedex.composeApp-navigation-runtime-ktx-2.8.0-rc01-2 C:\Users\letic\.gradle\caches\8.11.1\transforms\0a6df1515290de8194d5ab9e5004a626\transformed\navigation-runtime-ktx-2.8.0-rc01\res
+com.pokedex.composeApp-core-runtime-2.2.0-3 C:\Users\letic\.gradle\caches\8.11.1\transforms\119fb5c686ff081f4660c93463acc0ab\transformed\core-runtime-2.2.0\res
+com.pokedex.composeApp-core-bundle-debug-4 C:\Users\letic\.gradle\caches\8.11.1\transforms\11e8f15f58b3ef372032e628aae01bd2\transformed\core-bundle-debug\res
+com.pokedex.composeApp-runtime-saveable-release-5 C:\Users\letic\.gradle\caches\8.11.1\transforms\12f3dcb3da4a63e04eb1a8cec781edff\transformed\runtime-saveable-release\res
+com.pokedex.composeApp-lifecycle-livedata-core-2.8.5-6 C:\Users\letic\.gradle\caches\8.11.1\transforms\17239a035786b2a78c55c3688992cd76\transformed\lifecycle-livedata-core-2.8.5\res
+com.pokedex.composeApp-animation-release-7 C:\Users\letic\.gradle\caches\8.11.1\transforms\1f0d57098bc9ec11b8da2f71e48f6491\transformed\animation-release\res
+com.pokedex.composeApp-activity-ktx-1.9.3-8 C:\Users\letic\.gradle\caches\8.11.1\transforms\23ef5fc3e164353de1d4e8c7668cb45a\transformed\activity-ktx-1.9.3\res
+com.pokedex.composeApp-ui-geometry-release-9 C:\Users\letic\.gradle\caches\8.11.1\transforms\25c6e6e4ab97adc1536ed540b62a4231\transformed\ui-geometry-release\res
+com.pokedex.composeApp-startup-runtime-1.2.0-10 C:\Users\letic\.gradle\caches\8.11.1\transforms\29c26a3a4c31967867c909ba05fc7dea\transformed\startup-runtime-1.2.0\res
+com.pokedex.composeApp-ui-tooling-release-11 C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\res
+com.pokedex.composeApp-activity-compose-1.9.3-12 C:\Users\letic\.gradle\caches\8.11.1\transforms\3900c7de6379ff82085757a43fea7178\transformed\activity-compose-1.9.3\res
+com.pokedex.composeApp-lifecycle-viewmodel-release-13 C:\Users\letic\.gradle\caches\8.11.1\transforms\3e511dcab41df4e991cb04d2166a8dc7\transformed\lifecycle-viewmodel-release\res
+com.pokedex.composeApp-ui-release-14 C:\Users\letic\.gradle\caches\8.11.1\transforms\3f809df4735c9011f96ced4e866aac27\transformed\ui-release\res
+com.pokedex.composeApp-lifecycle-viewmodel-compose-release-15 C:\Users\letic\.gradle\caches\8.11.1\transforms\416a86dcab69c5adedea2a2f0e74d563\transformed\lifecycle-viewmodel-compose-release\res
+com.pokedex.composeApp-ui-graphics-release-16 C:\Users\letic\.gradle\caches\8.11.1\transforms\4879129348435cc927a48791b04bfc8c\transformed\ui-graphics-release\res
+com.pokedex.composeApp-lifecycle-runtime-ktx-release-17 C:\Users\letic\.gradle\caches\8.11.1\transforms\4adac3e46ff210e6f3764494b71d4a4e\transformed\lifecycle-runtime-ktx-release\res
+com.pokedex.composeApp-graphics-path-1.0.1-18 C:\Users\letic\.gradle\caches\8.11.1\transforms\4c0d289358f46d1c53cd2891ca30349f\transformed\graphics-path-1.0.1\res
+com.pokedex.composeApp-navigation-compose-2.8.0-rc01-19 C:\Users\letic\.gradle\caches\8.11.1\transforms\4e08a3301d6a1e8d3e41b372b6a67c84\transformed\navigation-compose-2.8.0-rc01\res
+com.pokedex.composeApp-ui-text-release-20 C:\Users\letic\.gradle\caches\8.11.1\transforms\502c8b7db1ceab87712ffbcb3bdbe13e\transformed\ui-text-release\res
+com.pokedex.composeApp-ui-unit-release-21 C:\Users\letic\.gradle\caches\8.11.1\transforms\5048379842a15c6f5bd440f6eef30c6c\transformed\ui-unit-release\res
+com.pokedex.composeApp-lifecycle-runtime-compose-release-22 C:\Users\letic\.gradle\caches\8.11.1\transforms\5284f807fe0bd2815db2dc9619c46c47\transformed\lifecycle-runtime-compose-release\res
+com.pokedex.composeApp-androidsvg-aar-1.4-23 C:\Users\letic\.gradle\caches\8.11.1\transforms\543a268b072958ca1ae56882af7dbc24\transformed\androidsvg-aar-1.4\res
+com.pokedex.composeApp-ui-tooling-preview-release-24 C:\Users\letic\.gradle\caches\8.11.1\transforms\5446620eb28016518d790ea39d9ed098\transformed\ui-tooling-preview-release\res
+com.pokedex.composeApp-ui-tooling-data-release-25 C:\Users\letic\.gradle\caches\8.11.1\transforms\5596f86ddbee133502def3b373a25c76\transformed\ui-tooling-data-release\res
+com.pokedex.composeApp-runtime-release-26 C:\Users\letic\.gradle\caches\8.11.1\transforms\57eb4a74b1aa45fd81f7fbaba4f53363\transformed\runtime-release\res
+com.pokedex.composeApp-lifecycle-runtime-release-27 C:\Users\letic\.gradle\caches\8.11.1\transforms\5e77319e463ceca1d5031a7a2cf8de3a\transformed\lifecycle-runtime-release\res
+com.pokedex.composeApp-lifecycle-viewmodel-ktx-2.8.5-28 C:\Users\letic\.gradle\caches\8.11.1\transforms\60872436b108d78a3c8fa7324c12b459\transformed\lifecycle-viewmodel-ktx-2.8.5\res
+com.pokedex.composeApp-savedstate-ktx-1.2.1-29 C:\Users\letic\.gradle\caches\8.11.1\transforms\6484208ee966850d79d58ef6c1e4be53\transformed\savedstate-ktx-1.2.1\res
+com.pokedex.composeApp-sqlite-bundled-release-30 C:\Users\letic\.gradle\caches\8.11.1\transforms\6682b702838bc18eaa882833098a8134\transformed\sqlite-bundled-release\res
+com.pokedex.composeApp-ui-util-release-31 C:\Users\letic\.gradle\caches\8.11.1\transforms\6e3d7f267aa5a0cc5c8520008bddd266\transformed\ui-util-release\res
+com.pokedex.composeApp-navigation-common-ktx-2.8.0-rc01-32 C:\Users\letic\.gradle\caches\8.11.1\transforms\6e9c17fe5fa51226b374058340be8287\transformed\navigation-common-ktx-2.8.0-rc01\res
+com.pokedex.composeApp-room-runtime-release-33 C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\res
+com.pokedex.composeApp-customview-poolingcontainer-1.0.0-34 C:\Users\letic\.gradle\caches\8.11.1\transforms\79e7f4feb2dcd3e16064443415166ffe\transformed\customview-poolingcontainer-1.0.0\res
+com.pokedex.composeApp-material3-release-35 C:\Users\letic\.gradle\caches\8.11.1\transforms\7fac5a744e9a9751d1cec00684f4cb86\transformed\material3-release\res
+com.pokedex.composeApp-core-ktx-1.13.1-36 C:\Users\letic\.gradle\caches\8.11.1\transforms\80d80561fbe88e646cd7af7001a93751\transformed\core-ktx-1.13.1\res
+com.pokedex.composeApp-savedstate-1.2.1-37 C:\Users\letic\.gradle\caches\8.11.1\transforms\9269d657d551abfb26cf501e01e8ba7d\transformed\savedstate-1.2.1\res
+com.pokedex.composeApp-activity-1.9.3-38 C:\Users\letic\.gradle\caches\8.11.1\transforms\92f7cd9aea0fedf99acfb15d8c23a1da\transformed\activity-1.9.3\res
+com.pokedex.composeApp-sqlite-release-39 C:\Users\letic\.gradle\caches\8.11.1\transforms\93eaf05b3c60f99484d5365a7f553e1b\transformed\sqlite-release\res
+com.pokedex.composeApp-material-1.0.0-40 C:\Users\letic\.gradle\caches\8.11.1\transforms\9921f356b4c1cbbf3e59b0b2cd8dca0a\transformed\material-1.0.0\res
+com.pokedex.composeApp-foundation-release-41 C:\Users\letic\.gradle\caches\8.11.1\transforms\9ee5ea1def4628605a866c0ff4f3257a\transformed\foundation-release\res
+com.pokedex.composeApp-emoji2-1.3.0-42 C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\res
+com.pokedex.composeApp-foundation-layout-release-43 C:\Users\letic\.gradle\caches\8.11.1\transforms\b55f724dab5f1e77919815c5228cd476\transformed\foundation-layout-release\res
+com.pokedex.composeApp-lifecycle-viewmodel-savedstate-2.8.5-44 C:\Users\letic\.gradle\caches\8.11.1\transforms\c12dbbba8e37cdbb389d7203f24efb9e\transformed\lifecycle-viewmodel-savedstate-2.8.5\res
+com.pokedex.composeApp-navigation-runtime-2.8.0-rc01-45 C:\Users\letic\.gradle\caches\8.11.1\transforms\cb3d2e459b08c65bbf23e00809d501ed\transformed\navigation-runtime-2.8.0-rc01\res
+com.pokedex.composeApp-sqlite-framework-release-46 C:\Users\letic\.gradle\caches\8.11.1\transforms\ce3f59f475e5fc751b143d957091012b\transformed\sqlite-framework-release\res
+com.pokedex.composeApp-animation-core-release-47 C:\Users\letic\.gradle\caches\8.11.1\transforms\d33838ae055a1e81c082f6e971e5dedb\transformed\animation-core-release\res
+com.pokedex.composeApp-profileinstaller-1.3.1-48 C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\res
+com.pokedex.composeApp-core-1.13.1-49 C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\res
+com.pokedex.composeApp-lifecycle-process-2.8.5-50 C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\res
+com.pokedex.composeApp-material-icons-core-release-51 C:\Users\letic\.gradle\caches\8.11.1\transforms\fd33fbe2afbbfc4252274a1016910a2f\transformed\material-icons-core-release\res
+com.pokedex.composeApp-material-ripple-release-52 C:\Users\letic\.gradle\caches\8.11.1\transforms\ff5e1769338c1f0c51cdd090875ce638\transformed\material-ripple-release\res
+com.pokedex.composeApp-pngs-53 C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\build\generated\res\pngs\debug
+com.pokedex.composeApp-resValues-54 C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\build\generated\res\resValues\debug
+com.pokedex.composeApp-packageDebugResources-55 C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.pokedex.composeApp-packageDebugResources-56 C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.pokedex.composeApp-debug-57 C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\build\intermediates\merged_res\debug\mergeDebugResources
+com.pokedex.composeApp-androidDebug-58 C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidDebug\res
+com.pokedex.composeApp-androidMain-59 C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\res
+com.pokedex.composeApp-debug-60 C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\debug\res
+com.pokedex.composeApp-main-61 C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\main\res

@@ -1,0 +1,167 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pokedex"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:4:5-67
+11-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:4:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+14        android:name="com.pokedex.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.pokedex.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:6:5-25:19
+20        android:allowBackup="true"
+20-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:7:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:8:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:9:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:10:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:11:9-35
+28        android:testOnly="true"
+29        android:theme="@android:style/Theme.Material.Light.NoActionBar" >
+29-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:12:9-72
+30        <activity
+30-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:14:9-23:20
+31            android:name="com.pokedex.MainActivity"
+31-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:15:13-41
+32            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+32-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:17:13-87
+33            android:exported="true"
+33-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:16:13-36
+34            android:windowSoftInputMode="adjustResize" >
+34-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:18:13-55
+35            <intent-filter>
+35-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:19:13-22:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:20:17-69
+36-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:20:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:21:17-77
+38-->C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:21:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <provider
+42-->[media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:11:9-19:20
+43            android:name="androidx.startup.InitializationProvider"
+43-->[media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:12:13-67
+44            android:authorities="com.pokedex.androidx-startup"
+44-->[media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:13:13-68
+45            android:exported="false" >
+45-->[media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:14:13-37
+46            <meta-data
+46-->[media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:16:13-18:52
+47                android:name="io.kamel.core.ApplicationContextInitializer"
+47-->[media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:17:17-75
+48                android:value="androidx.startup" />
+48-->[media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:18:17-49
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:29:13-31:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:30:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:31:17-49
+55            <meta-data
+55-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+56-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+57                android:value="androidx.startup" />
+57-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+58        </provider>
+59        <provider
+59-->[org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:8:9-13:20
+60            android:name="org.jetbrains.compose.resources.AndroidContextProvider"
+60-->[org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:9:13-82
+61            android:authorities="com.pokedex.resources.AndroidContextProvider"
+61-->[org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:10:13-84
+62            android:enabled="true"
+62-->[org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:11:13-35
+63            android:exported="false" >
+63-->[org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:12:13-37
+64        </provider>
+65
+66        <activity
+66-->[androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+67            android:name="androidx.compose.ui.tooling.PreviewActivity"
+67-->[androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+68            android:exported="true" />
+68-->[androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+69
+70        <service
+70-->[androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:24:9-28:63
+71            android:name="androidx.room.MultiInstanceInvalidationService"
+71-->[androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:25:13-74
+72            android:directBootAware="true"
+72-->[androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:26:13-43
+73            android:exported="false" />
+73-->[androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:27:13-37
+74
+75        <receiver
+75-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+76            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+76-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+77            android:directBootAware="false"
+77-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+78            android:enabled="true"
+78-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+79            android:exported="true"
+79-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+80            android:permission="android.permission.DUMP" >
+80-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+81            <intent-filter>
+81-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+82                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+82-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+83            </intent-filter>
+84            <intent-filter>
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+85                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+86            </intent-filter>
+87            <intent-filter>
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+88                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+89            </intent-filter>
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+91                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+92            </intent-filter>
+93        </receiver>
+94    </application>
+95
+96</manifest>

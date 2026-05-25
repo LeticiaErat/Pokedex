@@ -1,0 +1,415 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\92f7cd9aea0fedf99acfb15d8c23a1da\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [media.kamel:kamel-image-default-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\cf3d7593c8df1a5f0893a907974c244e\transformed\kamel-image-default-release\AndroidManifest.xml:2:1-7:12
+MERGED from [media.kamel:kamel-fetcher-resources-android-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\658deb70e9cac568cb7fd0b0a22bc6b7\transformed\kamel-fetcher-resources-android-release\AndroidManifest.xml:2:1-7:12
+MERGED from [media.kamel:kamel-mapper-resources-id-android-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\3c21ad68ed8a070fe8d4a47e5fddf466\transformed\kamel-mapper-resources-id-android-release\AndroidManifest.xml:2:1-7:12
+MERGED from [media.kamel:kamel-image-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\96fd175fd7f130db645ac7cfffb5b0a5\transformed\kamel-image-release\AndroidManifest.xml:2:1-7:12
+MERGED from [media.kamel:kamel-decoder-svg-std-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\550dd96d4421056398a995a017636dc6\transformed\kamel-decoder-svg-std-release\AndroidManifest.xml:2:1-7:12
+MERGED from [media.kamel:kamel-decoder-image-bitmap-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\43b0e861fa9ec8e42f208771b5efd140\transformed\kamel-decoder-image-bitmap-release\AndroidManifest.xml:2:1-7:12
+MERGED from [media.kamel:kamel-decoder-image-vector-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\6b95460eb80d88f9fbe89cac07d97961\transformed\kamel-decoder-image-vector-release\AndroidManifest.xml:2:1-7:12
+MERGED from [media.kamel:kamel-decoder-animated-image-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\0455de539a64e1a7b49d229d663f8c08\transformed\kamel-decoder-animated-image-release\AndroidManifest.xml:2:1-7:12
+MERGED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:2:1-22:12
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\6e9c17fe5fa51226b374058340be8287\transformed\navigation-common-ktx-2.8.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\cb3d2e459b08c65bbf23e00809d501ed\transformed\navigation-runtime-2.8.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\09b610aee8d5606e3ab74ce4937a0e1e\transformed\navigation-common-2.8.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\0a6df1515290de8194d5ab9e5004a626\transformed\navigation-runtime-ktx-2.8.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\4e08a3301d6a1e8d3e41b372b6a67c84\transformed\navigation-compose-2.8.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\7fac5a744e9a9751d1cec00684f4cb86\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\9921f356b4c1cbbf3e59b0b2cd8dca0a\transformed\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\d33838ae055a1e81c082f6e971e5dedb\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\ff5e1769338c1f0c51cdd090875ce638\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\1f0d57098bc9ec11b8da2f71e48f6491\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\b55f724dab5f1e77919815c5228cd476\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\9ee5ea1def4628605a866c0ff4f3257a\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\5596f86ddbee133502def3b373a25c76\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\5048379842a15c6f5bd440f6eef30c6c\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\4879129348435cc927a48791b04bfc8c\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\25c6e6e4ab97adc1536ed540b62a4231\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\6e3d7f267aa5a0cc5c8520008bddd266\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\502c8b7db1ceab87712ffbcb3bdbe13e\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\5446620eb28016518d790ea39d9ed098\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\6484208ee966850d79d58ef6c1e4be53\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\9269d657d551abfb26cf501e01e8ba7d\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\9ebbd45d27ab15a9502b90ec7c48f4a0\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\11e8f15f58b3ef372032e628aae01bd2\transformed\core-bundle-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\79e7f4feb2dcd3e16064443415166ffe\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\80d80561fbe88e646cd7af7001a93751\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\4c0d289358f46d1c53cd2891ca30349f\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\4adac3e46ff210e6f3764494b71d4a4e\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\17239a035786b2a78c55c3688992cd76\transformed\lifecycle-livedata-core-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\60872436b108d78a3c8fa7324c12b459\transformed\lifecycle-viewmodel-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\3e511dcab41df4e991cb04d2166a8dc7\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\5284f807fe0bd2815db2dc9619c46c47\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\5e77319e463ceca1d5031a7a2cf8de3a\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\c12dbbba8e37cdbb389d7203f24efb9e\transformed\lifecycle-viewmodel-savedstate-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\416a86dcab69c5adedea2a2f0e74d563\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\fd33fbe2afbbfc4252274a1016910a2f\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\3f809df4735c9011f96ced4e866aac27\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\23ef5fc3e164353de1d4e8c7668cb45a\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\3900c7de6379ff82085757a43fea7178\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\8b231d34fdc86d141c1b929a82462d8d\transformed\library-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\ce3f59f475e5fc751b143d957091012b\transformed\sqlite-framework-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.5.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\93eaf05b3c60f99484d5365a7f553e1b\transformed\sqlite-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-bundled-android:2.5.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\6682b702838bc18eaa882833098a8134\transformed\sqlite-bundled-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\12f3dcb3da4a63e04eb1a8cec781edff\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\57eb4a74b1aa45fd81f7fbaba4f53363\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\01d5fa322e2160787c63a3a8c8ead92f\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\7444873b623822e6d51ea2a8a25f63c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\119fb5c686ff081f4660c93463acc0ab\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\29c26a3a4c31967867c909ba05fc7dea\transformed\startup-runtime-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\25dfcd1f2f4ad6f1fb4aea46f55b5512\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\fd3f38cb02a47d63a4ae5d27c864ccf6\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.caverock:androidsvg-aar:1.4] C:\Users\letic\.gradle\caches\8.11.1\transforms\543a268b072958ca1ae56882af7dbc24\transformed\androidsvg-aar-1.4\AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:4:5-67
+MERGED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:8:5-67
+MERGED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:6:5-25:19
+INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:6:5-25:19
+MERGED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:10:5-20:19
+MERGED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:10:5-20:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:7:5-14:19
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:7:5-14:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\7444873b623822e6d51ea2a8a25f63c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\7444873b623822e6d51ea2a8a25f63c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\29c26a3a4c31967867c909ba05fc7dea\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\29c26a3a4c31967867c909ba05fc7dea\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:12:9-72
+activity#com.pokedex.MainActivity
+ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:14:9-23:20
+	android:windowSoftInputMode
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:18:13-55
+	android:exported
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:16:13-36
+	android:configChanges
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:17:13-87
+	android:name
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml
+INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\92f7cd9aea0fedf99acfb15d8c23a1da\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\92f7cd9aea0fedf99acfb15d8c23a1da\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [media.kamel:kamel-image-default-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\cf3d7593c8df1a5f0893a907974c244e\transformed\kamel-image-default-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-image-default-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\cf3d7593c8df1a5f0893a907974c244e\transformed\kamel-image-default-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-fetcher-resources-android-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\658deb70e9cac568cb7fd0b0a22bc6b7\transformed\kamel-fetcher-resources-android-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-fetcher-resources-android-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\658deb70e9cac568cb7fd0b0a22bc6b7\transformed\kamel-fetcher-resources-android-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-mapper-resources-id-android-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\3c21ad68ed8a070fe8d4a47e5fddf466\transformed\kamel-mapper-resources-id-android-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-mapper-resources-id-android-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\3c21ad68ed8a070fe8d4a47e5fddf466\transformed\kamel-mapper-resources-id-android-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-image-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\96fd175fd7f130db645ac7cfffb5b0a5\transformed\kamel-image-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-image-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\96fd175fd7f130db645ac7cfffb5b0a5\transformed\kamel-image-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-decoder-svg-std-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\550dd96d4421056398a995a017636dc6\transformed\kamel-decoder-svg-std-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-decoder-svg-std-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\550dd96d4421056398a995a017636dc6\transformed\kamel-decoder-svg-std-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-decoder-image-bitmap-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\43b0e861fa9ec8e42f208771b5efd140\transformed\kamel-decoder-image-bitmap-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-decoder-image-bitmap-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\43b0e861fa9ec8e42f208771b5efd140\transformed\kamel-decoder-image-bitmap-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-decoder-image-vector-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\6b95460eb80d88f9fbe89cac07d97961\transformed\kamel-decoder-image-vector-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-decoder-image-vector-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\6b95460eb80d88f9fbe89cac07d97961\transformed\kamel-decoder-image-vector-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-decoder-animated-image-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\0455de539a64e1a7b49d229d663f8c08\transformed\kamel-decoder-animated-image-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-decoder-animated-image-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\0455de539a64e1a7b49d229d663f8c08\transformed\kamel-decoder-animated-image-release\AndroidManifest.xml:5:5-44
+MERGED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:6:5-44
+MERGED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:6:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\6e9c17fe5fa51226b374058340be8287\transformed\navigation-common-ktx-2.8.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\6e9c17fe5fa51226b374058340be8287\transformed\navigation-common-ktx-2.8.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\cb3d2e459b08c65bbf23e00809d501ed\transformed\navigation-runtime-2.8.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\cb3d2e459b08c65bbf23e00809d501ed\transformed\navigation-runtime-2.8.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\09b610aee8d5606e3ab74ce4937a0e1e\transformed\navigation-common-2.8.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\09b610aee8d5606e3ab74ce4937a0e1e\transformed\navigation-common-2.8.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\0a6df1515290de8194d5ab9e5004a626\transformed\navigation-runtime-ktx-2.8.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\0a6df1515290de8194d5ab9e5004a626\transformed\navigation-runtime-ktx-2.8.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\4e08a3301d6a1e8d3e41b372b6a67c84\transformed\navigation-compose-2.8.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.8.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\4e08a3301d6a1e8d3e41b372b6a67c84\transformed\navigation-compose-2.8.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\7fac5a744e9a9751d1cec00684f4cb86\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\7fac5a744e9a9751d1cec00684f4cb86\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\9921f356b4c1cbbf3e59b0b2cd8dca0a\transformed\material-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\9921f356b4c1cbbf3e59b0b2cd8dca0a\transformed\material-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\d33838ae055a1e81c082f6e971e5dedb\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\d33838ae055a1e81c082f6e971e5dedb\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\ff5e1769338c1f0c51cdd090875ce638\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\ff5e1769338c1f0c51cdd090875ce638\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\1f0d57098bc9ec11b8da2f71e48f6491\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\1f0d57098bc9ec11b8da2f71e48f6491\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\b55f724dab5f1e77919815c5228cd476\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\b55f724dab5f1e77919815c5228cd476\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\9ee5ea1def4628605a866c0ff4f3257a\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\9ee5ea1def4628605a866c0ff4f3257a\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\5596f86ddbee133502def3b373a25c76\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\5596f86ddbee133502def3b373a25c76\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\5048379842a15c6f5bd440f6eef30c6c\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\5048379842a15c6f5bd440f6eef30c6c\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\4879129348435cc927a48791b04bfc8c\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\4879129348435cc927a48791b04bfc8c\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\25c6e6e4ab97adc1536ed540b62a4231\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\25c6e6e4ab97adc1536ed540b62a4231\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\6e3d7f267aa5a0cc5c8520008bddd266\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\6e3d7f267aa5a0cc5c8520008bddd266\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\502c8b7db1ceab87712ffbcb3bdbe13e\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\502c8b7db1ceab87712ffbcb3bdbe13e\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\5446620eb28016518d790ea39d9ed098\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\5446620eb28016518d790ea39d9ed098\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\6484208ee966850d79d58ef6c1e4be53\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\6484208ee966850d79d58ef6c1e4be53\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\9269d657d551abfb26cf501e01e8ba7d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\9269d657d551abfb26cf501e01e8ba7d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\9ebbd45d27ab15a9502b90ec7c48f4a0\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\9ebbd45d27ab15a9502b90ec7c48f4a0\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\11e8f15f58b3ef372032e628aae01bd2\transformed\core-bundle-debug\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\11e8f15f58b3ef372032e628aae01bd2\transformed\core-bundle-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\79e7f4feb2dcd3e16064443415166ffe\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\79e7f4feb2dcd3e16064443415166ffe\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\80d80561fbe88e646cd7af7001a93751\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\80d80561fbe88e646cd7af7001a93751\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\4c0d289358f46d1c53cd2891ca30349f\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\4c0d289358f46d1c53cd2891ca30349f\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\4adac3e46ff210e6f3764494b71d4a4e\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\4adac3e46ff210e6f3764494b71d4a4e\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\17239a035786b2a78c55c3688992cd76\transformed\lifecycle-livedata-core-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\17239a035786b2a78c55c3688992cd76\transformed\lifecycle-livedata-core-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\60872436b108d78a3c8fa7324c12b459\transformed\lifecycle-viewmodel-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\60872436b108d78a3c8fa7324c12b459\transformed\lifecycle-viewmodel-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\3e511dcab41df4e991cb04d2166a8dc7\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\3e511dcab41df4e991cb04d2166a8dc7\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\5284f807fe0bd2815db2dc9619c46c47\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\5284f807fe0bd2815db2dc9619c46c47\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\5e77319e463ceca1d5031a7a2cf8de3a\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\5e77319e463ceca1d5031a7a2cf8de3a\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\c12dbbba8e37cdbb389d7203f24efb9e\transformed\lifecycle-viewmodel-savedstate-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\c12dbbba8e37cdbb389d7203f24efb9e\transformed\lifecycle-viewmodel-savedstate-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\416a86dcab69c5adedea2a2f0e74d563\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\416a86dcab69c5adedea2a2f0e74d563\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\fd33fbe2afbbfc4252274a1016910a2f\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\fd33fbe2afbbfc4252274a1016910a2f\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\3f809df4735c9011f96ced4e866aac27\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\3f809df4735c9011f96ced4e866aac27\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\23ef5fc3e164353de1d4e8c7668cb45a\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\23ef5fc3e164353de1d4e8c7668cb45a\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\3900c7de6379ff82085757a43fea7178\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\3900c7de6379ff82085757a43fea7178\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\8b231d34fdc86d141c1b929a82462d8d\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.compose.components:components-ui-tooling-preview-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\8b231d34fdc86d141c1b929a82462d8d\transformed\library-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\ce3f59f475e5fc751b143d957091012b\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\ce3f59f475e5fc751b143d957091012b\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\93eaf05b3c60f99484d5365a7f553e1b\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\93eaf05b3c60f99484d5365a7f553e1b\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-bundled-android:2.5.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\6682b702838bc18eaa882833098a8134\transformed\sqlite-bundled-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-bundled-android:2.5.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\6682b702838bc18eaa882833098a8134\transformed\sqlite-bundled-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\12f3dcb3da4a63e04eb1a8cec781edff\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\12f3dcb3da4a63e04eb1a8cec781edff\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\57eb4a74b1aa45fd81f7fbaba4f53363\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\57eb4a74b1aa45fd81f7fbaba4f53363\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\01d5fa322e2160787c63a3a8c8ead92f\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\01d5fa322e2160787c63a3a8c8ead92f\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\7444873b623822e6d51ea2a8a25f63c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\7444873b623822e6d51ea2a8a25f63c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\119fb5c686ff081f4660c93463acc0ab\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\119fb5c686ff081f4660c93463acc0ab\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\29c26a3a4c31967867c909ba05fc7dea\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\29c26a3a4c31967867c909ba05fc7dea\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\25dfcd1f2f4ad6f1fb4aea46f55b5512\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\25dfcd1f2f4ad6f1fb4aea46f55b5512\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\fd3f38cb02a47d63a4ae5d27c864ccf6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\fd3f38cb02a47d63a4ae5d27c864ccf6\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.caverock:androidsvg-aar:1.4] C:\Users\letic\.gradle\caches\8.11.1\transforms\543a268b072958ca1ae56882af7dbc24\transformed\androidsvg-aar-1.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.caverock:androidsvg-aar:1.4] C:\Users\letic\.gradle\caches\8.11.1\transforms\543a268b072958ca1ae56882af7dbc24\transformed\androidsvg-aar-1.4\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\letic\Downloads\pokedex-m2 (2)\pokedex-m2\composeApp\src\androidMain\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:11:9-19:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\29c26a3a4c31967867c909ba05fc7dea\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\29c26a3a4c31967867c909ba05fc7dea\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+	tools:node
+		ADDED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:15:13-31
+	android:authorities
+		ADDED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:13:13-68
+	android:exported
+		ADDED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:12:13-67
+meta-data#io.kamel.core.ApplicationContextInitializer
+ADDED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:16:13-18:52
+	android:value
+		ADDED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:18:17-49
+	android:name
+		ADDED from [media.kamel:kamel-core-android:1.0.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\58c2b8db318b7ac181b8864abd136fd1\transformed\kamel-core-release\AndroidManifest.xml:17:17-75
+provider#org.jetbrains.compose.resources.AndroidContextProvider
+ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:8:9-13:20
+	android:enabled
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:11:13-35
+	android:authorities
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:10:13-84
+	android:exported
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [org.jetbrains.compose.components:components-resources-android:1.7.3] C:\Users\letic\.gradle\caches\8.11.1\transforms\5de0ee889b1dc6d34d260db0029b2063\transformed\library-release\AndroidManifest.xml:9:13-82
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\letic\.gradle\caches\8.11.1\transforms\35f19df3201073b29f220a0072095f60\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\letic\.gradle\caches\8.11.1\transforms\a602a9c03b6187bd750494a93d20591d\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.pokedex.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.pokedex.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e6484d5d62aee2e4b8429e3ab71a7551\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.5] C:\Users\letic\.gradle\caches\8.11.1\transforms\eaf3c764d619baedb2b3ab6c0db42111\transformed\lifecycle-process-2.8.5\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.7.0-rc01] C:\Users\letic\.gradle\caches\8.11.1\transforms\74eff20b67e100e98904b1d4b2f1bb7a\transformed\room-runtime-release\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\letic\.gradle\caches\8.11.1\transforms\e2a34f3e44d21a1d6155ee06eabcee50\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
